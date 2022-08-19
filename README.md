@@ -41,7 +41,8 @@ For this circuit, i have used the potentiometer for testing and demonstration of
 **the Arduino readings are 0-1023 ( 2^10 , or 10-Bit)**, so in the code, I had to translate the scale to up to 5 (since Arduino supplies 5v), else, scale is adjustable.
 
 For the simulation in Tinkercad, you can open the serial monitor to check the readings, and I have used an LED also as a way for demonstrating voltage changes!
-You can test the simulation [Here](https://www.tinkercad.com/things/kCiFLbMDeEN-analog-voltage-reading-with-arduino/editel)
+
+**You can test the simulation** [Here](https://www.tinkercad.com/things/kCiFLbMDeEN-analog-voltage-reading-with-arduino/editel)
 
 ![Screenshot 2022-08-19 083736](https://user-images.githubusercontent.com/109004035/185552777-8e415e41-27c7-4527-a692-f5c886f4417a.jpg)
 
